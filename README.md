@@ -6,11 +6,11 @@ Built as a portfolio project for revenue management / Commercial analytics roles
 
 **3-minute version of everything below:**
 
-<img src="deck/slide_1.png" width="800" alt="Slide 1: Where Should Promotional Investment Go?"><br>
-<img src="deck/slide_2.png" width="800" alt="Slide 2: Two Models, One Question"><br>
-<img src="deck/slide_3.png" width="800" alt="Slide 3: Price Sensitivity Varies Nearly 3x Across Categories"><br>
-<img src="deck/slide_4.png" width="800" alt="Slide 4: Half of All Promotions Are Losing Money"><br>
-<img src="deck/slide_5.png" width="800" alt="Slide 5: Recommendation">
+![Slide 1: Where Should Promotional Investment Go?](deck/slide_1.png)
+![Slide 2: Two Models, One Question](deck/slide_2.png)
+![Slide 3: Price Sensitivity Varies Nearly 3x Across Categories](deck/slide_3.png)
+![Slide 4: Half of All Promotions Are Losing Money](deck/slide_4.png)
+![Slide 5: Recommendation](deck/slide_5.png)
 
 *([PDF](RGM_Promotional_Effectiveness.pdf) and [editable .pptx](RGM_Promotional_Effectiveness.pptx) also available.)*
 
