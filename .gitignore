@@ -1,0 +1,28 @@
+# Raw dataset — not redistributed here; check dunnhumby's source-files
+# terms before re-hosting the original workbook. See README.md.
+Breakfast_at_the_Frat.xlsx
+~$*.xlsx
+
+# R session files — .RData in particular can silently contain the full
+# loaded dataset in memory, which defeats the point of not committing
+# the raw workbook above.
+.RData
+.Rhistory
+.Rproj.user/
+
+# Internal working notes for the AI assistant — not meant for public
+# readers; the same narrative is public via README.md instead.
+CLAUDE.md
+
+# Personal interview-prep study copy — deliberately narrower scope than
+# rgm_analysis.R (one category, one product), so its numbers don't match
+# the real analysis. Useful for rehearsal, confusing if published
+# alongside the real script with no context. Kept local only.
+rgm_simple_walkthrough.R
+
+# macOS
+.DS_Store
+
+# Keynote working copy — created when exporting the deck to PDF; the
+# .pptx and .pdf are what's tracked
+RGM_Promotional_Effectiveness.key
