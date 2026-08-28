@@ -4,7 +4,15 @@
 A revenue-management style analysis about the price elasticities and promotional ROI in the grocery retail market in USA. 
 Built as a portfolio project for revenue management / Commercial analytics roles in FMCG.
 
-**[→ 5-slide deck (PDF)](RGM_Promotional_Effectiveness.pdf)** — 3-minute version of everything below. ([Editable .pptx](RGM_Promotional_Effectiveness.pptx) also available.)
+**3-minute version of everything below:**
+
+<img src="deck/slide_1.png" width="800" alt="Slide 1: Where Should Promotional Investment Go?"><br>
+<img src="deck/slide_2.png" width="800" alt="Slide 2: Two Models, One Question"><br>
+<img src="deck/slide_3.png" width="800" alt="Slide 3: Price Sensitivity Varies Nearly 3x Across Categories"><br>
+<img src="deck/slide_4.png" width="800" alt="Slide 4: Half of All Promotions Are Losing Money"><br>
+<img src="deck/slide_5.png" width="800" alt="Slide 5: Recommendation">
+
+*([PDF](RGM_Promotional_Effectiveness.pdf) and [editable .pptx](RGM_Promotional_Effectiveness.pptx) also available.)*
 
 ## The question:
 
