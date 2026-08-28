@@ -12,7 +12,7 @@ Built as a portfolio project for revenue management / Commercial analytics roles
 ![Slide 4: Half of All Promotions Are Losing Money](deck/slide_4.png)
 ![Slide 5: Recommendation](deck/slide_5.png)
 
-*([PDF](RGM_Promotional_Effectiveness.pdf) and [editable .pptx](RGM_Promotional_Effectiveness.pptx) also available.)*
+*([PDF](RGM_Promotional_Effectiveness.pdf) also available.)*
 
 ## The question:
 
@@ -62,7 +62,8 @@ Shifting the promotional investment from TPR-only to a Feature + Display can imp
 | File | What it is |
 |---|---|
 | `rgm_analysis.R` | Full, commented analysis pipeline — run top to bottom |
-| `RGM_Promotional_Effectiveness.pptx` | 5-slide narrative deck |
+| `RGM_Promotional_Effectiveness.pdf` | 5-slide narrative deck |
+| `deck/slide_*.png` | Same deck, embedded directly above |
 | `out_*.csv` | Every result table, for Excel / further analysis |
 | `chart_*.png` | Standalone chart exports |
 
